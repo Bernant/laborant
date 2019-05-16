@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Ruslanovich reklama
+=======
+Ruslanov
+>>>>>>> newdev
